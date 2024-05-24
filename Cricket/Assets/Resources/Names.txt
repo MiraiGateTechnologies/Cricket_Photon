@@ -1,0 +1,24 @@
+{
+  "names": [
+    "Aarav",
+    "Aanya",
+    "Advik",
+    "Anaya",
+    "Arnav",
+    "Avni",
+    "Dev",
+    "Ishaan",
+    "Kavya",
+    "Mohit",
+    "Myra",
+    "Neha",
+    "Pranav",
+    "Riya",
+    "Rudra",
+    "Saanvi",
+    "Samarth",
+    "Suhana",
+    "Tanvi",
+    "Vihaan"
+  ]
+}
