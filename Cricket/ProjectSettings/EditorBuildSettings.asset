@@ -9,6 +9,6 @@ EditorBuildSettings:
     path: Assets/Scenes/Photon.unity
     guid: 5e59fbe9a994df2459b86a737c895551
   - enabled: 1
-    path: Assets/Scenes/bowl.unity
+    path: Assets/Scenes/Main Scene.unity
     guid: ded9b440ed9a90243b32c9a25556a012
   m_configObjects: {}
